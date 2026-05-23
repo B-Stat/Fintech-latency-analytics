@@ -23,4 +23,5 @@ LIMIT 5;
 
 ## Core Analytical Findings
 
-<img width="774" height="133" alt="image" src="https://github.com/user-attachments/assets/03d5f9e9-e200-4cf5-8b18-026e08359b67" />
+<img width="768" height="125" alt="image" src="https://github.com/user-attachments/assets/9cf6188f-5bc5-4312-9bcf-f0525def49ea" />
+<img width="613" height="54" alt="image" src="https://github.com/user-attachments/assets/2512ef91-7547-4fe0-b8da-25d6b8d25fb0" />
