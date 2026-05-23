@@ -20,3 +20,7 @@ GROUP BY hour_of_the_day
 ORDER BY average_latency_ms DESC
 LIMIT 5;
 ```
+
+## Core Analytical Findings
+
+<img width="774" height="133" alt="image" src="https://github.com/user-attachments/assets/03d5f9e9-e200-4cf5-8b18-026e08359b67" />
